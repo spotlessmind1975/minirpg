@@ -99,7 +99,7 @@ Bats are mammals of the order Chiroptera; with their forelimbs adapted as wings,
 
 ![Boa](monster_boa.jpg)
 
-The boa, also called the red-tailed boa or the common boa, is a species of large, non-venomous, heavy-bodied snake that is frequently kept and bred in captivity. The boa constrictor is a member of the family Boidae, found in tropical North, Central, and South America, as well as some islands in the Caribbean. Boa constrictors are ambush predators, so often lie in wait for an appropriate prey to come along, when they attack. However, they have also been known to actively hunt, particularly in regions with a low concentration of suitable prey, and this behavior generally occurs at night. The boa first strikes at the prey, grabbing it with its teeth; it then proceeds to constrict the prey until death before consuming it whole.
+The boa, also called the red-tailed boa or the common boa, is a species of large, non-venomous, heavy-bodied snake that is frequently kept and bred in captivity. Boa constrictors are ambush predators, so often lie in wait for an appropriate prey to come along, when they attack. However, they have also been known to actively hunt, particularly in regions with a low concentration of suitable prey, and this behavior generally occurs at night. The boa first strikes at the prey, grabbing it with its teeth; it then proceeds to constrict the prey until death before consuming it whole.
 
 *This article uses material from the Wikipedia article <a href="https://en.wikipedia.org/wiki/Boa_constrictor">Boa constrictor</a>, which is released under the <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share-Alike License 3.0</a>.*
 
@@ -235,9 +235,7 @@ An eel is any ray-finned fish belonging to the order Anguilliformes. Eels underg
 
 ![Elk](monster_elk.jpg)
 
-The elk or wapiti (Cervus canadensis) is one of the largest species within the deer family, Cervidae, and one of the largest terrestrial mammals. This animal should not be confused with the still larger Alces alces, known as the moose in America, but as the "elk" in British English and in reference to populations in Eurasia.
-
-Elk range in forest and forest-edge habitat, feeding on grasses, plants, leaves, and bark. Male elk have large antlers which are shed each year. Males also engage in ritualized mating behaviors during the rut, including posturing, antler wrestling (sparring), and bugling, a loud series of vocalizations that establishes dominance over other males and attracts females.
+The elk or wapiti (Cervus canadensis) is one of the largest species within the deer family, Cervidae, and one of the largest terrestrial mammals. Elk range in forest and forest-edge habitat, feeding on grasses, plants, leaves, and bark. Male elk have large antlers which are shed each year. Males also engage in ritualized mating behaviors during the rut, including posturing, antler wrestling (sparring), and bugling, a loud series of vocalizations that establishes dominance over other males and attracts females.
 
 *This article uses material from the Wikipedia article <a href="https://en.wikipedia.org/wiki/Elk">Elk</a>, which is released under the <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share-Alike License 3.0</a>.*
 
@@ -271,11 +269,9 @@ Elk range in forest and forest-edge habitat, feeding on grasses, plants, leaves,
 
 ![Hag](monster_hag.jpg)
 
-A hag is a wizened old woman, or a kind of fairy or goddess having the appearance of such a woman, often found in folklore and children's tales such as Hansel and Gretel. Hags are often seen as malevolent, but may also be one of the chosen forms of shapeshifting deities, such as the Morrígan or Badb, who are seen as neither wholly benevolent nor malevolent.
+A hag is a wizened old woman, or a kind of fairy or goddess having the appearance of such a woman, often found in folklore and children's tales such as Hansel and Gretel. Hags are often seen as malevolent, but may also be one of the chosen forms of shapeshifting deities. His weapon is the magic wand, which can inflict significant damage even with the movement of air. Unfortunately, even if a hag is defeated, it is not possible to take the wand, because its magical force is linked to the life of the hag.
 
-His weapon is the magic wand, which can inflict significant damage even with the movement of air. Unfortunately, even if a hag is defeated, it is not possible to take the hag, because its magical force is linked to the life of the hag.
-
-*This article uses material from the Wikipedia article <a href="https://en.wikipedia.org/wiki/Chain_mail">Chain mail</a>, which is released under the <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share-Alike License 3.0</a>.*
+*This article uses material from the Wikipedia article <a href="https://en.wikipedia.org/wiki/Hag">Hag</a>, which is released under the <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share-Alike License 3.0</a>.*
 
 <table>
     <tr>
@@ -302,13 +298,13 @@ His weapon is the magic wand, which can inflict significant damage even with the
     </tr>
 </table>
 
-**(*)** = hag can be the object of magical practices, which diminish their stature
+**(*)** = hag can be the object of magical practices, which diminish/increase their stature
 
 ### HOGS
 
 ![Hog](monster_hog.jpg)
 
-The hog (Porcula salvania) is an endangered suid, previously spread across Bhutan, India and Nepal, but now only found in India (Assam).  In the wild, they make small nests by digging a small trench and lining it with vegetation. During the heat of the day, they stay within these nests. They feed on roots, tubers, insects, rodents, and small reptiles.
+The hog (Porcula salvania) is an endangered suid. In the wild, they make small nests by digging a small trench and lining it with vegetation. During the heat of the day, they stay within these nests. They feed on roots, tubers, insects, rodents, and small reptiles.
 
 *This article uses material from the Wikipedia article <a href="https://en.wikipedia.org/wiki/Pygmy_hog">Pygmy hog</a>, which is released under the <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share-Alike License 3.0</a>.*
 
@@ -442,8 +438,6 @@ Rats are various medium-sized, long-tailed rodents. Species of rats are found th
 ![Roc](monster_roc.jpg)
 
 The Roc is an enormous legendary bird of prey in the popular mythology of the Middle East.
-
-It appears in Arabic geographies and natural history, popularized in Arabian fairy tales and sailors' folklore. Ibn Battuta tells of a mountain hovering in the air over the China Seas, which was the Roc. The story collection One Thousand and One Nights includes tales of Abd al-Rahman and Sinbad the Sailor, both of which include the Roc.
 
 *This article uses material from the Wikipedia article <a href="https://en.wikipedia.org/wiki/Roc_(mythology)">Roc (mithology)</a>, which is released under the <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share-Alike License 3.0</a>.*
 
