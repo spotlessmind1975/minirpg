@@ -2,7 +2,9 @@
 
 **MINIRPG** is a turn-based role play game for [COMMODORE 64](https://it.wikipedia.org/wiki/Commodore_64) home computer, with **unlimited different timelines**. 
 
-In this game, the player assumes the role of a protagonist in a 15 days long exploration of a forest. In this period, he / she will be able to collect and use [weapons](/docs/weapons.md) and [armors](/docs/armors.md), and fight [monsters](/docs/monsters.md), all to gain experience points. This game is designed for a single player, it is text-based and it uses procedural generation to create and store all timelines, in order to be able to play again with them, **without use of external storage**.
+In this game, the player assumes the role of a protagonist in a 15 days long exploration of a forest. In this period, he / she will be able to collect and use [weapons](/docs/weapons.md) and [armors](/docs/armors.md), and fight [monsters](/docs/monsters.md), all to gain experience points.
+
+This game is designed for a single player, it is text-based and it uses procedural generation to create and store all timelines, in order to be able to play again with them, **without use of external storage**.
 
 ![cover](cover.jpg)
 
