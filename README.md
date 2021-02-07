@@ -9,11 +9,10 @@ This game is designed for a single player, it is text-based and it uses procedur
 ![cover](cover.jpg)
 
 [Click here](/docs/instructions.md) to read the instructions on how to play, and [here](https://github.com/spotlessmind1975/adv10en/blob/master/minirpg-all.d64) to download the disk image (D64 format). 
-The image contains both English and [Italian edition](https://github.com/spotlessmind1975/minigdr).
 
 ![snapshot](snapshot.png)
 
-This game was created to participate in the ["BASIC10Liner" competition 2020](https://gkanold.wixsite.com/homeputerium/2020). For this reason, the game is modest in size, the given source code respects strong constraints on the length of each line (category: **PUR-120**) and it does not rely on third party libraries. 
+This game was created to participate in the ["BASIC10Liner" competition 2021](https://gkanold.wixsite.com/homeputerium/2021). For this reason, the game is modest in size, the given source code respects strong constraints on the length of each line (category: **PUR-120**) and it does not rely on third party libraries. 
 
 For those wishing to deepen the details of its implementation, please refer to the following documents:
  *  [the source code](/docs/source.md)
